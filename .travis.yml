@@ -10,4 +10,8 @@ cache:
 install:
   - npm install
 script:
+<<<<<<< HEAD
    - npm test
+=======
+  - npm test
+>>>>>>> b253987fb38a06aa01f8a97b34da114b1e98882d
